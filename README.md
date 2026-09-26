@@ -2,7 +2,7 @@
 
 A bilingual (English / Arabic, LTR / RTL) portfolio and freelance-services CMS built with **Laravel 12**. It runs a public portfolio site (projects, services with pricing packages, and a reels page that embeds Instagram, YouTube and TikTok) plus an admin panel where quote requests move through a strict workflow.
 
-[![CI](https://github.com/mohammedname2002/portfolio-cms/actions/workflows/ci.yml/badge.svg)](https://github.com/mohammedname2002/portfolio-cms/actions/workflows/ci.yml)
+[![CI](https://github.com/mohammed-a-ashqar/portfolio-cms/actions/workflows/ci.yml/badge.svg)](https://github.com/mohammed-a-ashqar/portfolio-cms/actions/workflows/ci.yml)
 ![PHP](https://img.shields.io/badge/PHP-8.2%20%7C%208.3-777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20)
 ![Tests](https://img.shields.io/badge/tests-62%20passing-2ea44f)
@@ -75,7 +75,7 @@ public function allowedTransitions(): array
 Requirements: PHP 8.2+, Composer, Node 20+, MySQL 8 or MariaDB.
 
 ```bash
-git clone https://github.com/mohammedname2002/portfolio-cms.git
+git clone https://github.com/mohammed-a-ashqar/portfolio-cms.git
 cd portfolio-cms
 
 composer install

@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "mohammedname2002/portfolio-cms",
+    "name": "mohammed-a-ashqar/portfolio-cms",
     "type": "project",
     "description": "Bilingual (EN/AR) portfolio and freelance-services CMS built with Laravel 12.",
     "keywords": ["laravel", "portfolio", "cms", "bilingual", "rtl"],
